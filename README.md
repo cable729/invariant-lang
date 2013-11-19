@@ -1,6 +1,6 @@
-##Invariant Language
+##Website
 
-I am using this repository to help explore and understand a possible invariant-rich language I might write.
+View the blog at http://cable729.github.io/invariant-lang/.
 
 ##Licensing
 This projecct uses the [MIT License](http://www.tldrlegal.com/license/mit-license).
